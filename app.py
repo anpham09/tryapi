@@ -52,7 +52,7 @@ Small details are where AI gives up fastest. Look at the glasses — the arms th
 
 
 def get_api_key():
-    return "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"
+    return "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"
 
 
 def image_to_base64(uploaded_file):
